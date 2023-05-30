@@ -62,6 +62,7 @@
             BackspaceButton = new Button();
             EnterButton = new Button();
             SpaceButton = new Button();
+            ToUpperButton = new Button();
             SuspendLayout();
             // 
             // InputTextBox
@@ -526,13 +527,13 @@
             // 
             BackspaceButton.BackColor = SystemColors.ButtonHighlight;
             BackspaceButton.FlatStyle = FlatStyle.Popup;
-            BackspaceButton.Font = new Font("Calibri", 10.2F, FontStyle.Regular, GraphicsUnit.Point);
+            BackspaceButton.Font = new Font("Calibri", 13.8F, FontStyle.Regular, GraphicsUnit.Point);
             BackspaceButton.ForeColor = SystemColors.ActiveCaptionText;
             BackspaceButton.Location = new Point(629, 220);
             BackspaceButton.Name = "BackspaceButton";
             BackspaceButton.Size = new Size(94, 37);
             BackspaceButton.TabIndex = 33;
-            BackspaceButton.Text = "BackSpace";
+            BackspaceButton.Text = "←";
             BackspaceButton.UseVisualStyleBackColor = false;
             BackspaceButton.Click += BackSpaceClick;
             // 
@@ -542,6 +543,7 @@
             EnterButton.FlatStyle = FlatStyle.Popup;
             EnterButton.Font = new Font("Calibri", 12F, FontStyle.Regular, GraphicsUnit.Point);
             EnterButton.ForeColor = SystemColors.ActiveCaptionText;
+            EnterButton.ImageAlign = ContentAlignment.TopCenter;
             EnterButton.Location = new Point(639, 263);
             EnterButton.Name = "EnterButton";
             EnterButton.Size = new Size(84, 37);
@@ -564,11 +566,27 @@
             SpaceButton.UseVisualStyleBackColor = false;
             SpaceButton.Click += SymbolButtonClick;
             // 
+            // ToUpperButton
+            // 
+            ToUpperButton.BackColor = SystemColors.ButtonHighlight;
+            ToUpperButton.FlatStyle = FlatStyle.Popup;
+            ToUpperButton.Font = new Font("Calibri", 13.8F, FontStyle.Regular, GraphicsUnit.Point);
+            ToUpperButton.ForeColor = SystemColors.ActiveCaptionText;
+            ToUpperButton.Location = new Point(639, 306);
+            ToUpperButton.Name = "ToUpperButton";
+            ToUpperButton.Size = new Size(48, 37);
+            ToUpperButton.TabIndex = 37;
+            ToUpperButton.Text = "↑";
+            ToUpperButton.TextAlign = ContentAlignment.TopCenter;
+            ToUpperButton.UseVisualStyleBackColor = false;
+            ToUpperButton.Click += ToUpperButtonClick;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(ToUpperButton);
             Controls.Add(SpaceButton);
             Controls.Add(EnterButton);
             Controls.Add(BackspaceButton);
@@ -645,5 +663,6 @@
         private Button BackspaceButton;
         private Button EnterButton;
         private Button SpaceButton;
+        private Button ToUpperButton;
     }
 }
