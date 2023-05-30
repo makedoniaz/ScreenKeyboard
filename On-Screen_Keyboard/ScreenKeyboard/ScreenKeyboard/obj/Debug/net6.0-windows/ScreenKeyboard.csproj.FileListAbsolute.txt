@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\bin\Debug\net6.0-windows\ScreenKeyboard.exe
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\bin\Debug\net6.0-windows\ScreenKeyboard.deps.json
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\bin\Debug\net6.0-windows\ScreenKeyboard.runtimeconfig.json
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\bin\Debug\net6.0-windows\ScreenKeyboard.dll
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\bin\Debug\net6.0-windows\ScreenKeyboard.pdb
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.Form1.resources
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.AssemblyInfo.cs
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.dll
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\refint\ScreenKeyboard.dll
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.pdb
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ScreenKeyboard.genruntimeconfig.cache
+C:\Users\USER\Desktop\ScreenKeyboard\ScreenKeyboard\On-Screen_Keyboard\ScreenKeyboard\ScreenKeyboard\obj\Debug\net6.0-windows\ref\ScreenKeyboard.dll

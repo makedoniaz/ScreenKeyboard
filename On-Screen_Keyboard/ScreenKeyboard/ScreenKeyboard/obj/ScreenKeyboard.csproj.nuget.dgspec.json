@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\ScreenKeyboard.csproj": {}
+    "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\ScreenKeyboard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\ScreenKeyboard.csproj": {
+    "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\ScreenKeyboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\ScreenKeyboard.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\ScreenKeyboard.csproj",
         "projectName": "ScreenKeyboard",
-        "projectPath": "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\ScreenKeyboard.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\ScreenKeyboard.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\ScreenKeyboard\\ScreenKeyboard\\On-Screen_Keyboard\\ScreenKeyboard\\ScreenKeyboard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
